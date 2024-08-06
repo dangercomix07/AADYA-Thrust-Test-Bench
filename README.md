@@ -1,6 +1,6 @@
 # AADYA-Thrust-Test-Bench
 Solid Rocket Motor Test Bench for AADYA Mission\
-![AADYA Thrust Testbench GUI](/images/gui)\
+![AADYA Thrust Testbench GUI](/images/gui.jpg)\
 Aadya Thrust Test Bench is an ESP32 based platform for
 thrust measurement and characterisation of solid rocket motors
 for the AADYA Mission. It reads data from a load cell and HX711 amplifier.
